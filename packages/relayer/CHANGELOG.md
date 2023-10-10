@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/taikoxyz/taiko-mono/compare/relayer-v0.11.0...relayer-v0.11.1) (2023-10-10)
+
+
+### Bug Fixes
+
+* **eventindexer:** update config tests ([#14912](https://github.com/taikoxyz/taiko-mono/issues/14912)) ([beab49b](https://github.com/taikoxyz/taiko-mono/commit/beab49bd8f085b1e285fb3a16e9b493f3c5f5932))
+
 ## [0.11.0](https://github.com/taikoxyz/taiko-mono/compare/relayer-v0.10.0...relayer-v0.11.0) (2023-09-25)
 
 

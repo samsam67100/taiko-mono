@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.23.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.22.0...taiko-mono-v0.23.0) (2023-10-10)
+
+
+### Features
+
+* **bridge-ui-v2:** dynamic import of NFT data via API ([#14928](https://github.com/taikoxyz/taiko-mono/issues/14928)) ([946c337](https://github.com/taikoxyz/taiko-mono/commit/946c337070eb2f2a9a2aa1f7314d7469ccd1b818))
+* **bridge-ui-v2:** manual NFT import step ([#14842](https://github.com/taikoxyz/taiko-mono/issues/14842)) ([c85e162](https://github.com/taikoxyz/taiko-mono/commit/c85e1629d0b9b544880f65f0e4050456579c87d1))
+* **website:** add covalent to ecosystem ([#14908](https://github.com/taikoxyz/taiko-mono/issues/14908)) ([9cc4db3](https://github.com/taikoxyz/taiko-mono/commit/9cc4db3ec8e59a619e8135f48d9af9a936325e82))
+* **website:** remove swap tokens guide ([#14897](https://github.com/taikoxyz/taiko-mono/issues/14897)) ([7dbf44c](https://github.com/taikoxyz/taiko-mono/commit/7dbf44c8ad1d0d1c67bf424d3f45ec6b2547465c))
+
+
+### Bug Fixes
+
+* **eventindexer:** update config tests ([#14912](https://github.com/taikoxyz/taiko-mono/issues/14912)) ([beab49b](https://github.com/taikoxyz/taiko-mono/commit/beab49bd8f085b1e285fb3a16e9b493f3c5f5932))
+* **eventindexer:** upodate indexnfts flag to bool ([#14905](https://github.com/taikoxyz/taiko-mono/issues/14905)) ([a4a982e](https://github.com/taikoxyz/taiko-mono/commit/a4a982ec15a11f207c5b14c3a0b5fb2caffd2c1b))
+
 ## [0.22.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.21.0...taiko-mono-v0.22.0) (2023-10-03)
 
 
